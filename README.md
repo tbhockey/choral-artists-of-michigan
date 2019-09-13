@@ -1,1 +1,2 @@
-# choral-artists-of-michigan
+# Choral Arists of Michigan
+

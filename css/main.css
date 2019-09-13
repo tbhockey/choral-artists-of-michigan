@@ -1,0 +1,19 @@
+/* COLOR LEGEND */
+
+body {
+  /*font-family: 'Roboto Condensed', sans-serif;*/
+  font-family: 'Playfair Display', serif;
+}
+
+.serif {
+  font-family: 'Playfair Display', serif;
+}
+
+.hero-graphic {
+  background: url(../images/image-1.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 500px;
+}
