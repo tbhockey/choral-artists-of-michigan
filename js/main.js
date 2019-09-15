@@ -16,9 +16,12 @@ function remoteContent(type) {
           "<span class='navbar-toggler-icon'></span>" +
         "</button>" +
         "<div class='collapse navbar-collapse' id='navbarNav'>" +
-          "<ul class='navbar-nav'>" +
+          "<ul class='navbar-nav mr-auto'>" +
             "<li class='nav-item'>" +
               "<a class='nav-link' id='nav-link-index' href='#'>Home</a>" +
+            "</li>" +
+            "<li class='nav-item'>" +
+              "<a class='nav-link' href='#'>Upcoming</a>" +
             "</li>" +
             "<li class='nav-item'>" +
               "<a class='nav-link' href='#'>History</a>" +
@@ -30,10 +33,15 @@ function remoteContent(type) {
               "<a class='nav-link' href='#'>Contact</a>" +
             "</li>" +
           "</ul>" +
+          "<ul class='navbar-nav'>" +
+            "<li class='nav-item'>" +
+              "<a class='btn btn-outline-primary rounded-pill' href='#'>Donate</a>" +
+            "</li>" +
+          "</ul>" +
         "</div>" +
       "</div>" +
     "</nav>"
-  }
+  };
 
   return(content);
 };
