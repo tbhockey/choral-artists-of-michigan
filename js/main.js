@@ -29,9 +29,6 @@ function remoteContent(type) {
             "<li class='nav-item'>" +
               "<a class='nav-link' id='nav-link-bios' href='bios.html'>Bios</a>" +
             "</li>" +
-            "<li class='nav-item'>" +
-              "<a class='nav-link' id='nav-link-contact' href='contact.html'>Contact</a>" +
-            "</li>" +
           "</ul>" +
           "<ul class='navbar-nav'>" +
             "<li class='nav-item'>" +
@@ -41,6 +38,17 @@ function remoteContent(type) {
         "</div>" +
       "</div>" +
     "</nav>"
+  } else if(type == 'footer') {
+    var content = "<div class='py-5' style='background-color: #f8f9fa;'>" +
+        "<div class='container text-secondary small text-center'>" +
+          "<ul class='list-inline'>" +
+            "<li class='list-inline-item'>Choral Artists of Michigan</li>" +
+            "<li class='list-inline-item'>3260 Regency Dr.</li>" +
+            "<li class='list-inline-item'>Lake Orion, MI 48359</li>" +
+          "</ul>" +
+          "&copy; 2019 Choral Artists of Michigan All Rights Reserved." +
+        "</div>" +
+      "</div>"
   };
 
   return(content);
