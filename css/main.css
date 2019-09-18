@@ -8,11 +8,29 @@ body {
   font-family: 'Playfair Display', serif;
 }
 
-.hero-graphic {
+.hero-graphic-1 {
   background: url(../images/image-1.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   height: 500px;
+}
+
+.hero-graphic-2 {
+  background: url(../images/image-2.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 500px;
+}
+
+.hero-graphic-3 {
+  background: url(../images/image-3.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 400px;
 }
