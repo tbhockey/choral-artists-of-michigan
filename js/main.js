@@ -32,7 +32,7 @@ function remoteContent(type) {
           "</ul>" +
           "<ul class='navbar-nav'>" +
             "<li class='nav-item'>" +
-              "<a class='btn btn-outline-primary rounded-pill' href='#'>Donate</a>" +
+              "<a class='btn btn-outline-primary rounded-pill' href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KPSWKTUUKLXWE' target='_blank'>Donate</a>" +
             "</li>" +
           "</ul>" +
         "</div>" +
