@@ -29,6 +29,9 @@ function remoteContent(type) {
             "<li class='nav-item'>" +
               "<a class='nav-link' id='nav-link-bios' href='bios.html'>Bios</a>" +
             "</li>" +
+            "<li class='nav-item'>" +
+              "<a class='nav-link' id='nav-link-sponsors' href='sponsors.html'>Sponsors</a>" +
+            "</li>" +
           "</ul>" +
           "<ul class='navbar-nav'>" +
             "<li class='nav-item'>" +
