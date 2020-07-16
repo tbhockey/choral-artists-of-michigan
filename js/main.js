@@ -21,7 +21,7 @@ function remoteContent(type) {
               "<a class='nav-link' id='nav-link-index' href='index.html'>Home</a>" +
             "</li>" +
             "<li class='nav-item'>" +
-              "<a class='nav-link' id='nav-link-upcoming' href='upcoming.html'>Upcoming</a>" +
+              "<a class='nav-link' id='nav-link-events' href='events.html'>Events</a>" +
             "</li>" +
             "<li class='nav-item'>" +
               "<a class='nav-link' id='nav-link-history' href='history.html'>History</a>" +
